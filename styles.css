@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+#verification_heading{
+	display:flex;
+	justify-content:center
+}
+#verification_subtext{
+	display:flex;
+	justify-content:center
+}
+.code-container{
+	 display: flex;
+      justify-content: space-between;
+      align-items: center;
+	margin-top:50px
+}
+.code{
+	margin-right:10px;
+	height:100px;
+	width:100px;
+	font-size:90px;
+	text-align:center;
+	color:#333;
+}
+
+
+
