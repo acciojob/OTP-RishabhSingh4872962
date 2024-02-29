@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const otp=document.querySelectorAll(".code");
- // otp[0].focus();  
+  otp[0].focus();  
 function handleInput() {
 	let val=this.event.target.value;
 	let index=parseInt(this.event.target.id.split("-")[1]);
