@@ -9,8 +9,8 @@
 }
 .code-container{
 	 display: flex;
-      justify-content: space-between;
       align-items: center;
+	justify-content:center;
 	margin-top:50px
 }
 .code{
